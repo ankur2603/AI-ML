@@ -1,24 +1,64 @@
-# AIML Projects
+# AI / Machine Learning Learning Journey 🚀
 
-This repository contains my projects and practice work in **Artificial Intelligence (AI)** and **Machine Learning (ML)** using **Python**.  
-The projects focus on learning the fundamentals of AI/ML, data handling, and implementing algorithms using popular Python libraries.
+This repository documents my learning and hands-on practice in **Artificial Intelligence and Machine Learning** using **Python**.  
+The focus is on building strong fundamentals through implementation and small projects rather than just theory.
 
-## Structure
+---
 
-- `Data_Cleaning/` – Projects related to data preprocessing and cleaning using **Pandas**.
-- `ML_Algorithms/` – Implementations of machine learning algorithms like Linear Regression, Naive Bayes, KMeans, etc.
-- `Mini_Projects/` – Small AI/ML projects to practice concepts.
+## 🔍 What this repository contains
 
-## Tools & Libraries Used
+- Python-based data handling and analysis
+- Practical use of **NumPy** and **Pandas**
+- Data cleaning and preprocessing
+- Exploratory coding and experiments
+- Beginner-level machine learning concepts (to be added progressively)
 
+---
+
+## 🧠 Topics Covered So Far
+
+### Programming & Data Handling
+- Python fundamentals
+- File handling
+- Functions and OOP concepts
+
+### Data Analysis
+- NumPy basics  
+  - Array creation  
+  - Indexing & slicing  
+  - Reshaping & manipulation  
+  - Broadcasting & vectorization  
+- Pandas  
+  - Data loading  
+  - Data cleaning  
+  - Handling missing values  
+  - Basic data exploration
+
+---
+
+## 🛠 Tools & Technologies
 - Python
 - NumPy
 - Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn
+- VS Code
+- Git & GitHub
 
-## About Me
+---
 
-I am a first-year undergraduate engineering student passionate about AI, ML, and Python programming.  
-Through these projects, I aim to strengthen my understanding of AI/ML concepts while building practical, hands-on experience.
+## 📈 Learning Approach
+- Learn concepts
+- Implement immediately
+- Build small projects
+- Improve gradually through iteration
+
+This repository will evolve as I continue learning and building more meaningful AI/ML projects.
+
+---
+
+## 📌 Status
+🚧 **In progress** — actively learning and updating.
+
+---
+
+## 🤝 Connect
+Feel free to explore the repository. Suggestions and feedback are always welcome.
