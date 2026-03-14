@@ -97,5 +97,4 @@ if st.button("Predict Risk"):
     else:
         st.markdown("<h2 style='color: green;'>✅ Student is Safe</h2>", unsafe_allow_html=True)
         st.success("Keep up the good work! Encourage continued positive study habits.")
-    
-    st.balloons()  # Fun celebration if safe
+        st.balloons()  # Fun celebration if safe
